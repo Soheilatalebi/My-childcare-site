@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mehrnaz Jafari - Family Childcare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f9ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4da8da;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #4da8da;
+        }
+        footer {
+            background-color: #4da8da;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact {
+            background-color: #eef7ff;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .contact p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mehrnaz Jafari's Family Childcare</h1>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#philosophy">Philosophy</a>
+        <a href="#services">Services</a>
+        <a href="#enrollment">Enrollment</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! My name is Mehrnaz Jafari, and I am passionate about creating a warm, safe, and engaging environment for children. With my experience and certification in family childcare, I strive to nurture every child’s unique abilities and help them grow emotionally, socially, and intellectually.</p>
+</section>
+
+<section id="philosophy">
+    <h2>Our Philosophy</h2>
+    <p>At my family childcare, I believe that every child deserves individualized attention and care. I emphasize creativity, play-based learning, and fostering a sense of community among children. My goal is to support the development of essential skills while ensuring kids feel safe, valued, and loved.</p>
+</section>
+
+<section id="services">
+    <h2>Services Offered</h2>
+    <ul>
+        <li>Full-time and part-time childcare</li>
+        <li>Age-appropriate learning activities</li>
+        <li>Healthy snacks and meals</li>
+        <li>Outdoor play and exploration</li>
+        <li>Parent updates and progress tracking
